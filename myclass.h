@@ -5,7 +5,7 @@
 
 class myclass{
     public:
-    myclasss();
+    myclass();
 };
 
-#endifgit
+#endif
